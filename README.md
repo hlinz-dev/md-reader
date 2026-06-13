@@ -24,6 +24,9 @@ MIT License – Copyright © 2025 Holger Linz
 
 ## Changelog
 
+### 0.9.2
+- Verwendete Bibliotheken mit Lizenzangaben im Info-Bereich ergänzt (marked, highlight.js, PDF.js, Tabler Icons)
+
 ### 0.9.1
 - Inhaltsverzeichnis-Rendering korrigiert (marked v9 Kompatibilität)
 - PDF-Zoom repariert (Zoom ändert jetzt sichtbare Seitengröße)
