@@ -1,6 +1,6 @@
 # MD Reader
 
-Ein schlanker, serverloser Markdown- und PDF-Viewer für den Browser. Keine Installation, keine Abhängigkeiten – einfach die HTML-Datei öffnen.
+Ein schlanker unter Mithilfe von Claude Code erstellter, serverloser Markdown- und PDF-Viewer für den Browser. Keine Installation, keine Abhängigkeiten – einfach die HTML-Datei öffnen.
 
 ## Funktionen
 
