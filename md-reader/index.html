@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MD Reader — Claude Chat</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>MD Reader</h1>
+      <div id="api-key-area">
+        <input type="password" id="api-key" placeholder="Anthropic API Key" autocomplete="off" />
+        <button id="save-key">Save</button>
+      </div>
+    </header>
+
+    <main>
+      <div id="chat-log"></div>
+    </main>
+
+    <footer>
+      <div id="input-area">
+        <textarea id="user-input" placeholder="Message Claude…" rows="3"></textarea>
+        <button id="send-btn">Send</button>
+      </div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
